@@ -1,0 +1,40 @@
+.navbar {
+    height: 133px;
+    background-color: #1B263B;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav_links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 555px;
+    width: 100%;
+
+    font-family: Lexend Deca;
+    font-size: 45px;
+    font-weight: 400;
+}
+.nav_links a{
+    color: white;
+}
+
+.search_field {
+    width: 609px;
+    height: 56px;
+
+    border-radius: 10px;
+    background-color: #1B263B;
+    border: 2.5px solid #FFFFFF;
+    color: white;
+    padding-left: 20px;
+}
+
+.logo {
+    width: 167px;
+    height: 74px;
+
+    border-radius: 10px;
+}
