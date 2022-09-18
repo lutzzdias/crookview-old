@@ -1,0 +1,74 @@
+.register_table {
+    display: flex;
+    justify-content: center;
+    column-gap: 118px;
+    align-items: center;
+    height: 787px;
+    width: 1156px;
+
+    margin: auto;
+    border-radius: 10px;
+
+    background-color: #1B263B;
+    color: white;
+
+    margin-top: 106px;
+}
+
+.img_input_field {
+    width: 443px;
+    height: 615px;
+
+    border-radius: 10px;
+    background-color: #0D1B2A;
+
+    font-family: Lexend Deca;
+    font-size: 45px;
+    font-weight: 400;
+
+    text-align: center;
+    color: white;
+}
+
+.input_title {
+    max-height: 71px;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    margin: 15px 0px 36px 0px;
+    background-color: #D9D9D9;
+}
+
+.text_input_fields {
+    display: flex;
+    flex-direction: column;
+
+    font-family: Lexend Deca;
+    font-size: 45px;
+    font-weight: 400;
+
+    height: 100%;
+    max-height: 615px;
+    max-width: 403px;
+    width: 100%;
+}
+
+.description_textarea {
+    margin: 15px 0px 36px 0px;
+    border-radius: 10px;
+    background-color: #D9D9D9;
+}
+
+.create_btn {
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    height: 100%;
+    max-height: 96px;
+    background-color: #008000;
+
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+}
