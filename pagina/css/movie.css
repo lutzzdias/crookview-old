@@ -1,0 +1,125 @@
+hr{
+  width: 90%;
+}
+
+*{
+  font-family: 'Lexend Deca';
+  font-style: normal;
+  padding: 0%;
+  
+}
+html {
+    height: 100vh;
+    width: 100vw;
+    background-color: #0D1B2A;
+  }
+
+.imagem{
+    border-radius: 10px;
+    width: 15%;
+    margin: 100px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.titulo{
+  color: white;
+	display: inline-block;
+  margin-top: 100px;
+  font-size: 20px;
+}
+
+.reviews{
+  color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+  
+ 
+}
+
+.user{
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.estrela{
+  width: 5%;
+  margin-top: 30px;
+  display: inline-block;
+  vertical-align: top;
+  margin-bottom: 30px;
+}
+
+.reviews2{
+  color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+  
+ 
+}
+
+.triangulo{
+  width: 5%;
+  margin-top: 30px;
+  display: inline-block;
+  vertical-align: top;
+  margin-bottom: 30px;
+}
+
+.user2{
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 20px;
+  align-self: auto;
+}
+
+
+
+.comentarios{
+  color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+
+
+.container{
+  margin-left: 100px;
+  margin-right: 100px;
+  
+  
+}
+
+.form-control{
+  background-color: #1B263B;
+  height: 200px;
+  width: 1820px;
+  color: white;
+}
+
+.button{
+  justify-content: right;
+  display: flex;
+
+}
+
+.btn{
+  height: 50px;
+  width: 100px;
+  color: white;
+  background-color: green;
+  align-items: center;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.rating{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.checked {
+  color: orange;
+  
+}
